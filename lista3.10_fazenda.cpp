@@ -69,8 +69,8 @@ main () {
 	
 	switch (prod_barato) {
 		case 'A':
-		  cout << "a abobrinha" << endl;
-		  break;
+		        cout << "a abobrinha" << endl;
+		        break;
 		case 'B':
 			cout << "o brocolis" << endl;
 			break;
